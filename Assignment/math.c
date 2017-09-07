@@ -1,3 +1,9 @@
+/*
+ * Author: Russell Binaco
+ * Created: 9-6-17
+ * Edited: 9-7-17
+ *
+ */
 #include<stdio.h>
 #include<math.h>
 int math(int num1, int num2, char Operator) { //performs Operator operation on num1,num2 and returns int result
