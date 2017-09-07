@@ -1,4 +1,4 @@
-###Math Function
+Math Function
 Author: Russell Binaco
 Created: 9-6-17
 Last edited: 9-7-17
